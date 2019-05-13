@@ -1,0 +1,2909 @@
+fileFormatVersion: 2
+guid: d2ffaf0e7d7aa6642af83850b88f39ea
+timeCreated: 1487218496
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Castanic_F_Hair10_Skel
+    100002: Dummy_Hair
+    100004: Hair_CB_00
+    100006: Hair_CB_01
+    100008: Hair_CB_02
+    100010: Hair_CB_03
+    100012: Hair_LB_00
+    100014: Hair_LB_01
+    100016: Hair_LB_02
+    100018: Hair_LF_00
+    100020: Hair_LF_01
+    100022: Hair_Neck_00
+    100024: Hair_RB_00
+    100026: Hair_RB_01
+    100028: Hair_RB_02
+    100030: Hair_RF_00
+    100032: Hair_RF_01
+    100034: //RootNode
+    400000: Castanic_F_Hair10_Skel
+    400002: Dummy_Hair
+    400004: Hair_CB_00
+    400006: Hair_CB_01
+    400008: Hair_CB_02
+    400010: Hair_CB_03
+    400012: Hair_LB_00
+    400014: Hair_LB_01
+    400016: Hair_LB_02
+    400018: Hair_LF_00
+    400020: Hair_LF_01
+    400022: Hair_Neck_00
+    400024: Hair_RB_00
+    400026: Hair_RB_01
+    400028: Hair_RB_02
+    400030: Hair_RF_00
+    400032: Hair_RF_01
+    400034: //RootNode
+    4300000: Castanic_F_Hair10_Skel
+    7400000: HairWait
+    7400002: HairRun
+    7400004: HairCombo1Start
+    7400006: HairCombo1Shot
+    7400008: HairCombo1End
+    7400010: HairCombo2Start
+    7400012: HairCombo2Shot
+    7400014: HairCombo2End
+    7400016: HairCombo3
+    7400018: HairCombo4Start
+    7400020: HairCombo4Shot
+    7400022: HairCombo4End
+    7400024: HairEvadeStart
+    7400026: HairEvadeShot
+    7400028: HairEvadeEnd
+    7400030: HairHellicopterCutsStart
+    7400032: HairHellicopterCutsShot1
+    7400034: HairHellicopterCutsShot2
+    7400036: HairHellicopterCutsShot3
+    7400038: HairHellicopterCutsShot3End
+    7400040: HairWeakPointStart
+    7400042: HairWeakPointShot
+    7400044: HairWeakPointR
+    7400046: HairTwisterStart
+    7400048: HairTwisterShot1
+    7400050: HairTwisterShot1End
+    7400052: HairTwisterShot2
+    7400054: HairTwisterShot3
+    7400056: HairTwisterShot3R
+    7400058: HairThrowGlaveStart
+    7400060: HairThrowGlaveJump
+    7400062: HairThrowGlaveShotStart
+    7400064: HairThrowGlaveShot
+    7400066: HairThrowGlaveShotEnd
+    7400068: HairThrowGlaveShotR
+    7400070: HairCrescentCut1Start
+    7400072: HairCrescentCut1Shot
+    7400074: HairCrescentCut1End
+    7400076: HairCrescentCut1R
+    7400078: HairCrescentCut2Start
+    7400080: HairCrescentCut2Shot
+    7400082: HairCrescentCut2End
+    7400084: HairCrescentCut2R
+    9500000: //RootNode
+    13700000: Castanic_F_Hair10_Skel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HairWait
+      takeName: HairWait
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairRun
+      takeName: HairRun
+      firstFrame: 57
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo1Start
+      takeName: HairCombo1Start
+      firstFrame: 82
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo1Shot
+      takeName: HairCombo1Shot
+      firstFrame: 97
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo1End
+      takeName: HairCombo1End
+      firstFrame: 114
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo2Start
+      takeName: HairCombo2Start
+      firstFrame: 135
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo2Shot
+      takeName: HairCombo2Shot
+      firstFrame: 150
+      lastFrame: 162
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo2End
+      takeName: HairCombo2End
+      firstFrame: 163
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo3
+      takeName: HairCombo3
+      firstFrame: 178
+      lastFrame: 243
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo4Start
+      takeName: HairCombo4Start
+      firstFrame: 244
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo4Shot
+      takeName: HairCombo4Shot
+      firstFrame: 275
+      lastFrame: 305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCombo4End
+      takeName: HairCombo4End
+      firstFrame: 306
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairEvadeStart
+      takeName: HairEvadeStart
+      firstFrame: 392
+      lastFrame: 396
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairEvadeShot
+      takeName: HairEvadeShot
+      firstFrame: 397
+      lastFrame: 412
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairEvadeEnd
+      takeName: HairEvadeEnd
+      firstFrame: 413
+      lastFrame: 425
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairHellicopterCutsStart
+      takeName: HairHellicopterCutsStart
+      firstFrame: 426
+      lastFrame: 437
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairHellicopterCutsShot1
+      takeName: HairHellicopterCutsShot1
+      firstFrame: 438
+      lastFrame: 444
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairHellicopterCutsShot2
+      takeName: HairHellicopterCutsShot2
+      firstFrame: 445
+      lastFrame: 461
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairHellicopterCutsShot3
+      takeName: HairHellicopterCutsShot3
+      firstFrame: 462
+      lastFrame: 494
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairHellicopterCutsShot3End
+      takeName: HairHellicopterCutsShot3End
+      firstFrame: 495
+      lastFrame: 513
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairWeakPointStart
+      takeName: HairWeakPointStart
+      firstFrame: 514
+      lastFrame: 552
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairWeakPointShot
+      takeName: HairWeakPointShot
+      firstFrame: 553
+      lastFrame: 558
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairWeakPointR
+      takeName: HairWeakPointR
+      firstFrame: 559
+      lastFrame: 614
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairTwisterStart
+      takeName: HairTwisterStart
+      firstFrame: 615
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairTwisterShot1
+      takeName: HairTwisterShot1
+      firstFrame: 626
+      lastFrame: 641
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairTwisterShot1End
+      takeName: HairTwisterShot1End
+      firstFrame: 642
+      lastFrame: 647
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairTwisterShot2
+      takeName: HairTwisterShot2
+      firstFrame: 648
+      lastFrame: 714
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairTwisterShot3
+      takeName: HairTwisterShot3
+      firstFrame: 715
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairTwisterShot3R
+      takeName: HairTwisterShot3R
+      firstFrame: 741
+      lastFrame: 776
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairThrowGlaveStart
+      takeName: HairThrowGlaveStart
+      firstFrame: 777
+      lastFrame: 795
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairThrowGlaveJump
+      takeName: HairThrowGlaveJump
+      firstFrame: 796
+      lastFrame: 821
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairThrowGlaveShotStart
+      takeName: HairThrowGlaveShotStart
+      firstFrame: 822
+      lastFrame: 839
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairThrowGlaveShot
+      takeName: HairThrowGlaveShot
+      firstFrame: 840
+      lastFrame: 854
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairThrowGlaveShotEnd
+      takeName: HairThrowGlaveShotEnd
+      firstFrame: 855
+      lastFrame: 871
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairThrowGlaveShotR
+      takeName: HairThrowGlaveShotR
+      firstFrame: 872
+      lastFrame: 878
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut1Start
+      takeName: HairCrescentCut1Start
+      firstFrame: 879
+      lastFrame: 895
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut1Shot
+      takeName: HairCrescentCut1Shot
+      firstFrame: 896
+      lastFrame: 914
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut1End
+      takeName: HairCrescentCut1End
+      firstFrame: 915
+      lastFrame: 963
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut1R
+      takeName: HairCrescentCut1R
+      firstFrame: 964
+      lastFrame: 984
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut2Start
+      takeName: HairCrescentCut2Start
+      firstFrame: 985
+      lastFrame: 1026
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut2Shot
+      takeName: HairCrescentCut2Shot
+      firstFrame: 1027
+      lastFrame: 1042
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut2End
+      takeName: HairCrescentCut2End
+      firstFrame: 1043
+      lastFrame: 1061
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HairCrescentCut2R
+      takeName: HairCrescentCut2R
+      firstFrame: 1062
+      lastFrame: 1084
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Hair10_Skel
+        weight: 1
+      - path: Dummy_Hair
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_CB_00/Hair_CB_01/Hair_CB_02/Hair_CB_03
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_LB_00/Hair_LB_01/Hair_LB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_LF_00/Hair_LF_01
+        weight: 1
+      - path: Dummy_Hair/Hair_Neck_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01
+        weight: 1
+      - path: Dummy_Hair/Hair_RB_00/Hair_RB_01/Hair_RB_02
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00
+        weight: 1
+      - path: Dummy_Hair/Hair_RF_00/Hair_RF_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

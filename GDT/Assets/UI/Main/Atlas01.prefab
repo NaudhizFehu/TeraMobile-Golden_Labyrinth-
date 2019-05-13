@@ -1,0 +1,1066 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1838611300654726}
+  m_IsPrefabParent: 1
+--- !u!1 &1838611300654726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4145209185149346}
+  - component: {fileID: 114325676764372790}
+  m_Layer: 0
+  m_Name: Atlas01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4145209185149346
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1838611300654726}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114325676764372790
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1838611300654726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 7a5d8af4c3c51944f9d6c1f572495386, type: 2}
+  sprites:
+  - name: White_Count_11
+    outer:
+      serializedVersion: 2
+      x: 209
+      y: 32
+      width: 8
+      height: 23
+    inner:
+      serializedVersion: 2
+      x: 209
+      y: 32
+      width: 8
+      height: 23
+    rotated: 0
+    paddingLeft: 0.625
+    paddingRight: 0.625
+    paddingTop: 0.04347826
+    paddingBottom: 0.04347826
+  - name: White_Count_12
+    outer:
+      serializedVersion: 2
+      x: 209
+      y: 8
+      width: 8
+      height: 23
+    inner:
+      serializedVersion: 2
+      x: 209
+      y: 8
+      width: 8
+      height: 23
+    rotated: 0
+    paddingLeft: 0.625
+    paddingRight: 0.625
+    paddingTop: 0.04347826
+    paddingBottom: 0.04347826
+  - name: Yellow_Count_0
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 264
+      width: 18
+      height: 28
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 264
+      width: 18
+      height: 28
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.035714287
+    paddingBottom: 0.035714287
+  - name: Yellow_Count_1
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 101
+      width: 12
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 101
+      width: 12
+      height: 26
+    rotated: 0
+    paddingLeft: 0.25
+    paddingRight: 0.5833333
+    paddingTop: 0.07692308
+    paddingBottom: 0.07692308
+  - name: Yellow_Count_2
+    outer:
+      serializedVersion: 2
+      x: 212
+      y: 100
+      width: 17
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 212
+      y: 100
+      width: 17
+      height: 27
+    rotated: 0
+    paddingLeft: 0.1764706
+    paddingRight: 0.11764706
+    paddingTop: 0.037037037
+    paddingBottom: 0.074074075
+  - name: Yellow_Count_3
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 293
+      width: 18
+      height: 28
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 293
+      width: 18
+      height: 28
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.035714287
+    paddingBottom: 0.035714287
+  - name: Yellow_Count_4
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 154
+      width: 18
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 154
+      width: 18
+      height: 26
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.07692308
+    paddingBottom: 0.07692308
+  - name: Yellow_Count_5
+    outer:
+      serializedVersion: 2
+      x: 194
+      y: 100
+      width: 17
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 194
+      y: 100
+      width: 17
+      height: 27
+    rotated: 0
+    paddingLeft: 0.1764706
+    paddingRight: 0.11764706
+    paddingTop: 0.074074075
+    paddingBottom: 0.037037037
+  - name: Yellow_Count_6
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 208
+      width: 18
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 208
+      width: 18
+      height: 27
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.074074075
+    paddingBottom: 0.037037037
+  - name: Yellow_Count_7
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 181
+      width: 18
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 181
+      width: 18
+      height: 26
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.07692308
+    paddingBottom: 0.07692308
+  - name: Yellow_Count_8
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 322
+      width: 18
+      height: 28
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 322
+      width: 18
+      height: 28
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.035714287
+    paddingBottom: 0.035714287
+  - name: Yellow_Count_9
+    outer:
+      serializedVersion: 2
+      x: 230
+      y: 236
+      width: 18
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 230
+      y: 236
+      width: 18
+      height: 27
+    rotated: 0
+    paddingLeft: 0.11111111
+    paddingRight: 0.11111111
+    paddingTop: 0.037037037
+    paddingBottom: 0.074074075
+  - name: Item_Poten_dev
+    outer:
+      serializedVersion: 2
+      x: 251
+      y: 333
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 251
+      y: 333
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  - name: NEW_Ball_003
+    outer:
+      serializedVersion: 2
+      x: 452
+      y: 472
+      width: 126
+      height: 126
+    inner:
+      serializedVersion: 2
+      x: 452
+      y: 472
+      width: 126
+      height: 126
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.007936508
+    paddingBottom: 0
+  - name: NEW_Ball_001
+    outer:
+      serializedVersion: 2
+      x: 706
+      y: 600
+      width: 126
+      height: 126
+    inner:
+      serializedVersion: 2
+      x: 706
+      y: 600
+      width: 126
+      height: 126
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.007936508
+    paddingBottom: 0
+  - name: MaskCard_plate
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 351
+      width: 250
+      height: 336
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 351
+      width: 250
+      height: 336
+    rotated: 0
+    paddingLeft: 0.016
+    paddingRight: 0.008
+    paddingTop: 0.038690478
+    paddingBottom: 0.0029761905
+  - name: btn_kakao_login
+    outer:
+      serializedVersion: 2
+      x: 251
+      y: 924
+      width: 600
+      height: 100
+    inner:
+      serializedVersion: 2
+      x: 251
+      y: 924
+      width: 600
+      height: 100
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: White_Count_2
+    outer:
+      serializedVersion: 2
+      x: 209
+      y: 56
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 209
+      y: 56
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_3
+    outer:
+      serializedVersion: 2
+      x: 194
+      y: 56
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 194
+      y: 56
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_4
+    outer:
+      serializedVersion: 2
+      x: 224
+      y: 78
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 224
+      y: 78
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_5
+    outer:
+      serializedVersion: 2
+      x: 194
+      y: 78
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 194
+      y: 78
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_6
+    outer:
+      serializedVersion: 2
+      x: 209
+      y: 78
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 209
+      y: 78
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_7
+    outer:
+      serializedVersion: 2
+      x: 235
+      y: 132
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 235
+      y: 132
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_8
+    outer:
+      serializedVersion: 2
+      x: 220
+      y: 132
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 220
+      y: 132
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_9
+    outer:
+      serializedVersion: 2
+      x: 194
+      y: 34
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 194
+      y: 34
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_10
+    outer:
+      serializedVersion: 2
+      x: 194
+      y: 10
+      width: 11
+      height: 23
+    inner:
+      serializedVersion: 2
+      x: 194
+      y: 10
+      width: 11
+      height: 23
+    rotated: 0
+    paddingLeft: 0.27272728
+    paddingRight: 0.36363637
+    paddingTop: 0.04347826
+    paddingBottom: 0.04347826
+  - name: Provision_BG_Black_Dark
+    outer:
+      serializedVersion: 2
+      x: 194
+      y: 128
+      width: 25
+      height: 25
+    inner:
+      serializedVersion: 2
+      x: 194
+      y: 128
+      width: 25
+      height: 25
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Provision_blue_bg
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 15
+      width: 193
+      height: 138
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 15
+      width: 193
+      height: 138
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.005181347
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Provision_Check
+    outer:
+      serializedVersion: 2
+      x: 378
+      y: 87
+      width: 59
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 378
+      y: 87
+      width: 59
+      height: 48
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.016949153
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Provision_Gradation_Top
+    outer:
+      serializedVersion: 2
+      x: 968
+      y: 733
+      width: 28
+      height: 190
+    inner:
+      serializedVersion: 2
+      x: 968
+      y: 733
+      width: 28
+      height: 190
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Provision_Gradation_Under
+    outer:
+      serializedVersion: 2
+      x: 201
+      y: 160
+      width: 28
+      height: 190
+    inner:
+      serializedVersion: 2
+      x: 201
+      y: 160
+      width: 28
+      height: 190
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: NEW_Ball_008
+    outer:
+      serializedVersion: 2
+      x: 706
+      y: 473
+      width: 126
+      height: 125
+    inner:
+      serializedVersion: 2
+      x: 706
+      y: 473
+      width: 126
+      height: 125
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.008
+    paddingBottom: 0.008
+  - name: NEW_Ball_009
+    outer:
+      serializedVersion: 2
+      x: 579
+      y: 473
+      width: 126
+      height: 125
+    inner:
+      serializedVersion: 2
+      x: 579
+      y: 473
+      width: 126
+      height: 125
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.008
+    paddingBottom: 0.008
+  - name: Item_player_extend
+    outer:
+      serializedVersion: 2
+      x: 251
+      y: 136
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 251
+      y: 136
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  - name: Guest_login
+    outer:
+      serializedVersion: 2
+      x: 693
+      y: 409
+      width: 199
+      height: 62
+    inner:
+      serializedVersion: 2
+      x: 693
+      y: 409
+      width: 199
+      height: 62
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.0050251256
+    paddingTop: 0
+    paddingBottom: 0
+  - name: NEW_Ball_007
+    outer:
+      serializedVersion: 2
+      x: 452
+      y: 347
+      width: 125
+      height: 124
+    inner:
+      serializedVersion: 2
+      x: 452
+      y: 347
+      width: 125
+      height: 124
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.008
+    paddingTop: 0.016129032
+    paddingBottom: 0.008064516
+  - name: bg1
+    outer:
+      serializedVersion: 2
+      x: 893
+      y: 368
+      width: 110
+      height: 103
+    inner:
+      serializedVersion: 2
+      x: 893
+      y: 368
+      width: 110
+      height: 103
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0.009708738
+  - name: NEW_Ball_002
+    outer:
+      serializedVersion: 2
+      x: 833
+      y: 473
+      width: 124
+      height: 125
+    inner:
+      serializedVersion: 2
+      x: 833
+      y: 473
+      width: 124
+      height: 125
+    rotated: 0
+    paddingLeft: 0.008064516
+    paddingRight: 0.008064516
+    paddingTop: 0.008
+    paddingBottom: 0.008
+  - name: Provision_White_BG
+    outer:
+      serializedVersion: 2
+      x: 854
+      y: 757
+      width: 113
+      height: 166
+    inner:
+      serializedVersion: 2
+      x: 854
+      y: 757
+      width: 113
+      height: 166
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.0088495575
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Start_Popup_Blue_BG
+    outer:
+      serializedVersion: 2
+      x: 452
+      y: 60
+      width: 53
+      height: 286
+    inner:
+      serializedVersion: 2
+      x: 452
+      y: 60
+      width: 53
+      height: 286
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.018867925
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Start_Popup_Cancel_Button
+    outer:
+      serializedVersion: 2
+      x: 852
+      y: 957
+      width: 116
+      height: 67
+    inner:
+      serializedVersion: 2
+      x: 852
+      y: 957
+      width: 116
+      height: 67
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0.014925373
+  - name: Start_Popup_Confirm_Button
+    outer:
+      serializedVersion: 2
+      x: 578
+      y: 283
+      width: 116
+      height: 67
+    inner:
+      serializedVersion: 2
+      x: 578
+      y: 283
+      width: 116
+      height: 67
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0.014925373
+  - name: Start_Popup_Guest_Alert
+    outer:
+      serializedVersion: 2
+      x: 578
+      y: 351
+      width: 114
+      height: 120
+    inner:
+      serializedVersion: 2
+      x: 578
+      y: 351
+      width: 114
+      height: 120
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: White_Count_0
+    outer:
+      serializedVersion: 2
+      x: 224
+      y: 56
+      width: 14
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 224
+      y: 56
+      width: 14
+      height: 21
+    rotated: 0
+    paddingLeft: 0.14285715
+    paddingRight: 0.14285715
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: White_Count_1
+    outer:
+      serializedVersion: 2
+      x: 239
+      y: 78
+      width: 10
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 239
+      y: 78
+      width: 10
+      height: 21
+    rotated: 0
+    paddingLeft: 0.3
+    paddingRight: 0.5
+    paddingTop: 0.0952381
+    paddingBottom: 0.0952381
+  - name: Item_condition
+    outer:
+      serializedVersion: 2
+      x: 653
+      y: 727
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 653
+      y: 727
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  - name: NEW_Ball_010
+    outer:
+      serializedVersion: 2
+      x: 452
+      y: 599
+      width: 126
+      height: 127
+    inner:
+      serializedVersion: 2
+      x: 452
+      y: 599
+      width: 126
+      height: 127
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: NEW_Ball_006
+    outer:
+      serializedVersion: 2
+      x: 833
+      y: 600
+      width: 126
+      height: 126
+    inner:
+      serializedVersion: 2
+      x: 833
+      y: 600
+      width: 126
+      height: 126
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.007936508
+    paddingBottom: 0
+  - name: Item_Poten_reset
+    outer:
+      serializedVersion: 2
+      x: 251
+      y: 530
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 251
+      y: 530
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  - name: NEW_Ball_005
+    outer:
+      serializedVersion: 2
+      x: 251
+      y: 8
+      width: 126
+      height: 127
+    inner:
+      serializedVersion: 2
+      x: 251
+      y: 8
+      width: 126
+      height: 127
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Item_grow_dev
+    outer:
+      serializedVersion: 2
+      x: 251
+      y: 727
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 251
+      y: 727
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  - name: Item_plate
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 688
+      width: 250
+      height: 336
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 688
+      width: 250
+      height: 336
+    rotated: 0
+    paddingLeft: 0.012
+    paddingRight: 0.012
+    paddingTop: 0.038690478
+    paddingBottom: 0.0029761905
+  - name: Item_grow_reset
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  - name: Item_Numtab
+    outer:
+      serializedVersion: 2
+      x: 578
+      y: 205
+      width: 85
+      height: 77
+    inner:
+      serializedVersion: 2
+      x: 578
+      y: 205
+      width: 85
+      height: 77
+    rotated: 0
+    paddingLeft: 0.05882353
+    paddingRight: 0.07058824
+    paddingTop: 0.15584415
+    paddingBottom: 0.09090909
+  - name: NEW_Ball_004
+    outer:
+      serializedVersion: 2
+      x: 579
+      y: 599
+      width: 126
+      height: 127
+    inner:
+      serializedVersion: 2
+      x: 579
+      y: 599
+      width: 126
+      height: 127
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Item_dubleBooster
+    outer:
+      serializedVersion: 2
+      x: 452
+      y: 727
+      width: 200
+      height: 196
+    inner:
+      serializedVersion: 2
+      x: 452
+      y: 727
+      width: 200
+      height: 196
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0.020408163
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}

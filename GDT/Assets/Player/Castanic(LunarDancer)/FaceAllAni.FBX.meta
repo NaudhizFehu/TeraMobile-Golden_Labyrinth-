@@ -1,0 +1,4581 @@
+fileFormatVersion: 2
+guid: 59a714c15a9989740b45e51df31d4f02
+timeCreated: 1487092845
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Castanic_F_Face04_Skel
+    100002: Dummy_Face
+    100004: Dummy_Neck
+    100006: //RootNode
+    100008: Facial_Cheek_L
+    100010: Facial_Cheek_R
+    100012: Facial_Dum_Ear_L
+    100014: Facial_Dum_Ear_R
+    100016: Facial_Dum_Eye_L
+    100018: Facial_Dum_Eye_R
+    100020: Facial_Dum_Jaw
+    100022: Facial_Dum_Lowerlip
+    100024: Facial_Dum_Nose
+    100026: Facial_Dum_Upperlip
+    100028: Facial_Eye_L
+    100030: Facial_Eye_R
+    100032: Facial_Eyebrow_L
+    100034: Facial_Eyebrow_R
+    100036: Facial_Eyelid_Lower_L
+    100038: Facial_Eyelid_Lower_R
+    100040: Facial_Eyelid_Upper_L
+    100042: Facial_Eyelid_Upper_R
+    100044: Facial_Glabella_L
+    100046: Facial_Glabella_R
+    100048: Facial_Jaw
+    100050: Facial_Lip_Lower_C
+    100052: Facial_Lip_Lower_L
+    100054: Facial_Lip_Lower_R
+    100056: Facial_Lip_Out_L
+    100058: Facial_Lip_Out_R
+    100060: Facial_Lip_Upper_C
+    100062: Facial_Lip_Upper_L
+    100064: Facial_Lip_Upper_R
+    100066: Facial_Nose_L
+    100068: Facial_Nose_R
+    100070: Facial_Ridge_L
+    100072: Facial_Ridge_R
+    400000: Castanic_F_Face04_Skel
+    400002: Dummy_Face
+    400004: Dummy_Neck
+    400006: //RootNode
+    400008: Facial_Cheek_L
+    400010: Facial_Cheek_R
+    400012: Facial_Dum_Ear_L
+    400014: Facial_Dum_Ear_R
+    400016: Facial_Dum_Eye_L
+    400018: Facial_Dum_Eye_R
+    400020: Facial_Dum_Jaw
+    400022: Facial_Dum_Lowerlip
+    400024: Facial_Dum_Nose
+    400026: Facial_Dum_Upperlip
+    400028: Facial_Eye_L
+    400030: Facial_Eye_R
+    400032: Facial_Eyebrow_L
+    400034: Facial_Eyebrow_R
+    400036: Facial_Eyelid_Lower_L
+    400038: Facial_Eyelid_Lower_R
+    400040: Facial_Eyelid_Upper_L
+    400042: Facial_Eyelid_Upper_R
+    400044: Facial_Glabella_L
+    400046: Facial_Glabella_R
+    400048: Facial_Jaw
+    400050: Facial_Lip_Lower_C
+    400052: Facial_Lip_Lower_L
+    400054: Facial_Lip_Lower_R
+    400056: Facial_Lip_Out_L
+    400058: Facial_Lip_Out_R
+    400060: Facial_Lip_Upper_C
+    400062: Facial_Lip_Upper_L
+    400064: Facial_Lip_Upper_R
+    400066: Facial_Nose_L
+    400068: Facial_Nose_R
+    400070: Facial_Ridge_L
+    400072: Facial_Ridge_R
+    4300000: Castanic_F_Face04_Skel
+    7400000: FaceWait
+    7400002: FaceRun
+    7400004: FaceCombo1Start
+    7400006: FaceCombo1Shot
+    7400008: FaceCombo1End
+    7400010: FaceCombo2Start
+    7400012: FaceCombo2Shot
+    7400014: FaceCombo2End
+    7400016: FaceCombo3
+    7400018: FaceCombo4Start
+    7400020: FaceCombo4Shot
+    7400022: FaceCombo4End
+    7400024: FaceEvadeStart
+    7400026: FaceEvadeShot
+    7400028: FaceEvadeEnd
+    7400030: FaceHellicopterCutsStart
+    7400032: FaceHellicopterCutsShot1
+    7400034: FaceHellicopterCutsShot2
+    7400036: FaceHellicopterCutsShot3
+    7400038: FaceHellicopterCutsShot3End
+    7400040: FaceWeakPointStart
+    7400042: FaceWeakPointShot
+    7400044: FaceWeakPointR
+    7400046: FaceTwisterStart
+    7400048: FaceTwisterShot1
+    7400050: FaceTwisterShot1End
+    7400052: FaceTwisterShot2
+    7400054: FaceTwisterShot3
+    7400056: FaceTwisterShot3R
+    7400058: FaceThrowGlaveStart
+    7400060: FaceThrowGlaveJump
+    7400062: FaceThrowGlaveShotStart
+    7400064: FaceThrowGlaveShot
+    7400066: FaceThrowGlaveShotEnd
+    7400068: FaceThrowGlaveShotR
+    7400070: FaceCrescentCut1Start
+    7400072: FaceCrescentCut1Shot
+    7400074: FaceCrescentCut1End
+    7400076: FaceCrescentCut1R
+    7400078: FaceCrescentCut2Start
+    7400080: FaceCrescentCut2Shot
+    7400082: FaceCrescentCut2End
+    7400084: FaceCrescentCut2R
+    9500000: //RootNode
+    13700000: Castanic_F_Face04_Skel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FaceWait
+      takeName: FaceWait
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceRun
+      takeName: FaceRun
+      firstFrame: 57
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo1Start
+      takeName: FaceCombo1Start
+      firstFrame: 82
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo1Shot
+      takeName: FaceCombo1Shot
+      firstFrame: 97
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo1End
+      takeName: FaceCombo1End
+      firstFrame: 114
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo2Start
+      takeName: FaceCombo2Start
+      firstFrame: 135
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo2Shot
+      takeName: FaceCombo2Shot
+      firstFrame: 150
+      lastFrame: 162
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo2End
+      takeName: FaceCombo2End
+      firstFrame: 163
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo3
+      takeName: FaceCombo3
+      firstFrame: 178
+      lastFrame: 243
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo4Start
+      takeName: FaceCombo4Start
+      firstFrame: 244
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo4Shot
+      takeName: FaceCombo4Shot
+      firstFrame: 275
+      lastFrame: 305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCombo4End
+      takeName: FaceCombo4End
+      firstFrame: 306
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceEvadeStart
+      takeName: FaceEvadeStart
+      firstFrame: 392
+      lastFrame: 396
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceEvadeShot
+      takeName: FaceEvadeShot
+      firstFrame: 397
+      lastFrame: 412
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceEvadeEnd
+      takeName: FaceEvadeEnd
+      firstFrame: 413
+      lastFrame: 425
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceHellicopterCutsStart
+      takeName: FaceHellicopterCutsStart
+      firstFrame: 426
+      lastFrame: 437
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceHellicopterCutsShot1
+      takeName: FaceHellicopterCutsShot1
+      firstFrame: 438
+      lastFrame: 444
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceHellicopterCutsShot2
+      takeName: FaceHellicopterCutsShot2
+      firstFrame: 445
+      lastFrame: 461
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceHellicopterCutsShot3
+      takeName: FaceHellicopterCutsShot3
+      firstFrame: 462
+      lastFrame: 494
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceHellicopterCutsShot3End
+      takeName: FaceHellicopterCutsShot3End
+      firstFrame: 495
+      lastFrame: 513
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceWeakPointStart
+      takeName: FaceWeakPointStart
+      firstFrame: 514
+      lastFrame: 552
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceWeakPointShot
+      takeName: FaceWeakPointShot
+      firstFrame: 553
+      lastFrame: 558
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceWeakPointR
+      takeName: FaceWeakPointR
+      firstFrame: 559
+      lastFrame: 614
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceTwisterStart
+      takeName: FaceTwisterStart
+      firstFrame: 615
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceTwisterShot1
+      takeName: FaceTwisterShot1
+      firstFrame: 626
+      lastFrame: 641
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceTwisterShot1End
+      takeName: FaceTwisterShot1End
+      firstFrame: 642
+      lastFrame: 647
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceTwisterShot2
+      takeName: FaceTwisterShot2
+      firstFrame: 648
+      lastFrame: 714
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceTwisterShot3
+      takeName: FaceTwisterShot3
+      firstFrame: 715
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceTwisterShot3R
+      takeName: FaceTwisterShot3R
+      firstFrame: 741
+      lastFrame: 776
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceThrowGlaveStart
+      takeName: FaceThrowGlaveStart
+      firstFrame: 777
+      lastFrame: 795
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceThrowGlaveJump
+      takeName: FaceThrowGlaveJump
+      firstFrame: 796
+      lastFrame: 821
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceThrowGlaveShotStart
+      takeName: FaceThrowGlaveShotStart
+      firstFrame: 822
+      lastFrame: 839
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceThrowGlaveShot
+      takeName: FaceThrowGlaveShot
+      firstFrame: 840
+      lastFrame: 854
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceThrowGlaveShotEnd
+      takeName: FaceThrowGlaveShotEnd
+      firstFrame: 855
+      lastFrame: 871
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceThrowGlaveShotR
+      takeName: FaceThrowGlaveShotR
+      firstFrame: 872
+      lastFrame: 878
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut1Start
+      takeName: FaceCrescentCut1Start
+      firstFrame: 879
+      lastFrame: 895
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut1Shot
+      takeName: FaceCrescentCut1Shot
+      firstFrame: 896
+      lastFrame: 914
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut1End
+      takeName: FaceCrescentCut1End
+      firstFrame: 915
+      lastFrame: 963
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut1R
+      takeName: FaceCrescentCut1R
+      firstFrame: 964
+      lastFrame: 984
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut2Start
+      takeName: FaceCrescentCut2Start
+      firstFrame: 985
+      lastFrame: 1026
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut2Shot
+      takeName: FaceCrescentCut2Shot
+      firstFrame: 1027
+      lastFrame: 1042
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut2End
+      takeName: FaceCrescentCut2End
+      firstFrame: 1043
+      lastFrame: 1061
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FaceCrescentCut2R
+      takeName: FaceCrescentCut2R
+      firstFrame: 1062
+      lastFrame: 1084
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Castanic_F_Face04_Skel
+        weight: 1
+      - path: Dummy_Neck
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Cheek_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Ear_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eye_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_L/Facial_Eyelid_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eye_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Eye_R/Facial_Eyelid_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Jaw/Facial_Jaw/Facial_Dum_Lowerlip/Facial_Lip_Lower_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Nose
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Out_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_C
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Dum_Upperlip/Facial_Lip_Upper_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Eyebrow_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Glabella_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Nose_R
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_L
+        weight: 1
+      - path: Dummy_Neck/Dummy_Face/Facial_Ridge_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
